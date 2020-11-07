@@ -66,6 +66,7 @@ https://tech.souyunku.com/?p=30970
 ![idea_install_9](https://github.com/HomanLiang/programming-summary/blob/main/software/idea/idea_install_9.png?raw=true)
 
 - 激活补丁，拖进去，等于是程序，帮你去写一个激活补丁的位置，你换补丁jar位置，或者，删除补丁jar，就找不到激活补丁了
+- 理论上说，补丁是可以安装其他位置（非中文目录），并且可以删除的。但是怕有未知性影响
 
 
 
@@ -87,6 +88,10 @@ https://tech.souyunku.com/?p=30970
 ![idea_install_11_1](https://github.com/HomanLiang/programming-summary/blob/main/software/idea/idea_install_11_1.png?raw=true)
 
 10. 点击是，重启 IDEA 即可
+
+
+
+
 
 ## 验证是否激活成功
 
