@@ -56,7 +56,7 @@ https://tech.souyunku.com/?p=30970
 
 7. 获取激活补丁(`jetbrains-agent-latest.zip`)，直接拖进IDEA界面
 
-链接: https://pan.baidu.com/s/1ajStmzt7zsBwLnq9YzmVfQ 
+链接: https://pan.baidu.com/s/15UxU8m1GnOUkkWieCIAsnQ 
 提取码: fd8d
 
 注意：
