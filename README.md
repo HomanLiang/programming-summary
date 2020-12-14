@@ -15,6 +15,7 @@
 ### 文本编辑工具
 
 1. [`Typora` 集成 `PicGo` 快速处理文章图片](https://github.com/HomanLiang/programming-summary/blob/main/software/typora_picgo.md)
+2. [【Typora + 博客园 】如何高效的在博客园上编写MD格式的博客](https://www.cnblogs.com/antaia11/p/14091010.html)
 
 
 
@@ -24,7 +25,9 @@
 
 
 
+### 浏览器相关工具
 
+1. [谷歌浏览器插件整理](https://github.com/HomanLiang/programming-summary/blob/main/software/chrome_plugin.md)
 
 
 
