@@ -9,6 +9,7 @@
 ### IDEA
 
 1. [IDEA 2020 安装](https://github.com/HomanLiang/programming-summary/blob/main/software/idea_install.md)
+2. [IDEA 好用的插件](https://github.com/HomanLiang/programming-summary/blob/main/software/idea_plugin.md)
 
 
 
