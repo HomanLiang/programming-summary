@@ -33,7 +33,7 @@
 
 3. `PicGo 设置`=>`选择显示的图床`=>勾选`GitHub图床`，方便后面使用
 
-   ![](https://raw.githubusercontent.com/HomanLiang/pictures/main/programming-summary/typora-picgo/typora_picgo_001.png)
+   ![](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/typora-picgo/typora_picgo_001.png)
 
 4. 激活PicGo-Server
 
@@ -41,7 +41,7 @@
 
     `PicGo 设置`=>`设置Server`，参考下图进行设置即可
 
-   ![](https://raw.githubusercontent.com/HomanLiang/pictures/main/programming-summary/typora-picgo/typora_picgo_002.png)
+   ![](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/typora-picgo/typora_picgo_002.png)
 
    
 
@@ -57,7 +57,7 @@
 
 1. `文件`=>`偏好设置`=>`图像`，参考图片中的进行配置，选择本机 PicGo 的路径
 
-![](https://raw.githubusercontent.com/HomanLiang/pictures/main/programming-summary/typora-picgo/typora_picgo_004.png)
+![](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/typora-picgo/typora_picgo_004.png)
 
 
 
@@ -67,7 +67,7 @@
 
    验证成功会返回下图结果：
 
-   ![typora_picgo_003](https://raw.githubusercontent.com/HomanLiang/pictures/main/programming-summary/typora-picgo/typora_picgo_003.png)
+   ![typora_picgo_003](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/typora-picgo/typora_picgo_003.png)
 
    
 
@@ -83,7 +83,7 @@
 
 可以直接选择图片，然后拖拽到编辑页面
 
-![](https://raw.githubusercontent.com/HomanLiang/pictures/main/programming-summary/typora-picgo/typora_picgo_005.gif)
+![](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/typora-picgo/typora_picgo_005.gif)
 
 
 
@@ -91,7 +91,7 @@
 
 使用快捷键 Ctrl + Shift + I，可以调出插入图片的功能
 
-![](https://raw.githubusercontent.com/HomanLiang/pictures/main/programming-summary/typora-picgo/typora_picgo_006.gif)
+![](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/typora-picgo/typora_picgo_006.gif)
 
 
 
@@ -101,7 +101,7 @@
 
 也可以直接复制图片，然后再编辑器中直接粘贴。或者截图后直接粘贴（比如 Snipaste）
 
-![typora_picgo_007](https://raw.githubusercontent.com/HomanLiang/pictures/main/programming-summary/typora-picgo/typora_picgo_007.gif)
+![typora_picgo_007](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/typora-picgo/typora_picgo_007.gif)
 
 
 
@@ -115,7 +115,7 @@
 
 另外，还可以看到所有的上传在 PicGo 的相册里都能找到：
 
-![typora_picgo_008](https://raw.githubusercontent.com/HomanLiang/pictures/main/programming-summary/typora-picgo/typora_picgo_008.png)
+![typora_picgo_008](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/typora-picgo/typora_picgo_008.png)
 
 
 

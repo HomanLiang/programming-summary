@@ -14,9 +14,9 @@
 
 1. 打开界面图
 
-![](https://raw.githubusercontent.com/HomanLiang/pictures/main/programming-summary/everything/image-20201214150250904.png)
+![](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/everything/image-20201214150250904.png)
 
 2. 搜索后界面图
 
-![image-20201214150355085](https://raw.githubusercontent.com/HomanLiang/pictures/main/programming-summary/everything/image-20201214150355085.png)
+![image-20201214150355085](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/everything/image-20201214150355085.png)
 
