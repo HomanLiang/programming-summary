@@ -28,7 +28,13 @@ MyBatis Log Plugin 这款插件是直接将Mybatis执行的sql脚本显示出来
 
 ![](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/Image_202012151743.png)
 
-注：日志等级要求是 debug 级别
+注：
+
+1. 日志等级要求是 debug 级别
+
+2. Ctrl + Shift + Alt + O 能快捷打开窗口
+
+   ![image-20210202143110226](https://homan-blog.oss-cn-beijing.aliyuncs.com/study-demo/jvm-demo/image-20210202143110226.png)
 
 
 
