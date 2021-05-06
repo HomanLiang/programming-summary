@@ -10,6 +10,13 @@
 
 1. [IDEA 2020 安装](https://github.com/HomanLiang/programming-summary/blob/main/software/idea_install.md)
 2. [IDEA 好用的插件](https://github.com/HomanLiang/programming-summary/blob/main/software/idea_plugin.md)
+3. [IDEA 常用技巧](https://github.com/HomanLiang/programming-summary/blob/main/software/idea_skill.md)
+
+
+
+### 测试工具
+
+1. [Postman](https://github.com/HomanLiang/programming-summary/blob/main/software/postman.md)
 
 
 
