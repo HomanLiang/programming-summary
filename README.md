@@ -23,6 +23,7 @@
 ### 搜索类工具
 
 1. [Everything](https://github.com/HomanLiang/programming-summary/blob/main/software/everything.md)： 是 Windows 上一款搜索引擎，它能够基于文件名快速定文件和文件夹位置
+2. [uTools](https://u.tools/)：你的生产力工具集，自由集成丰富插件，快速匹配「场景功能」，用完即走
 
 
 
