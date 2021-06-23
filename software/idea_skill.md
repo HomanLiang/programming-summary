@@ -404,7 +404,19 @@ public class User {
     synchronized (string) {}
     ```
 
+### 1.16.避免IDEA自动导入“*”的问题
 
+避免IDEA自动导入“*”的问题
+
+编译器操作：
+
+左上角 `File->settings->Editor->Code Style->java->imports`
+
+设置  `Class count to use import with '*'`  值为 `500`
+
+设置 `Names count to use static import with '*'` 值为 `300`
+
+![img](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea_skill/20210623205448.png)
 
 
 
