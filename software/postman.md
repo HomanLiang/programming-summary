@@ -6,7 +6,7 @@
 
 postman是一款支持http协议的接口调试与测试工具，其主要特点就是功能强大，使用简单且易用性好 。无论是开发人员进行接口调试，还是测试人员做接口测试，postman都是我们的首选工具之一 。那么接下来就介绍下postman到底有哪些功能，它们分别都能干些什么 。下面先通过一张图来直观地来看下postman中所包含的功能 。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/JdLkEI9sZfeBXIeYg2EuF9P2UOmiaPKZFiavNUb354gAGLJe5ayGoMTormNZRgXH5mzuhaSg0LmhWFrZlfPP5HJw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/postman20220609124633.webp)
 
 ## 1.postman安装说明
 
@@ -596,3 +596,54 @@ var user_id = jsonData.data.roles.points[1]
       // 获取id的值,通过slice(-1)获取列表中最后一个元素。
       var id = jsonData.data.rows.slice(-1)[0]
 ```
+
+### 并发模拟
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/postman20220609125533.png)
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/postman20220609125557.png)
+
+填写基本信息后，创建
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/postman20220609125610.png)
+
+这个时候会创建出Concurrency的文件夹，我们可以把刚才测试的demo的例子放进这个文件夹下
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/postman20220609125620.png)
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/postman20220609125642.png)
+
+这个时候就可以在Concurrency下看到这个接口测试了
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/postman20220609125652.png)
+
+选择并发测试：
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/postman20220609125703.png)
+
+这个时候弹出我们想要的框了
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/postman20220609125721.png)
+
+点击Run Concurrency
+
+你可以立马感觉到CPU在“燃烧”，因为要记录并打印日志，显示的话是一条一条来的，其实测试的速度，要比你看到的打印的日志的速度快，绿色表示正常
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/postman20220609125731.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
