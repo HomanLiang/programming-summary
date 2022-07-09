@@ -257,7 +257,114 @@ SequenceDiagram 插件可以根据代码调用链路自动生成时序图，这�
 
 
 
+## Java Stream Debugger
 
+Java8的stream API很大程度的简化了我们的代码量，可在使用过程中总会出现奇奇怪怪的bug而且不能debug。
+
+Java Stream Debugger支持了对stream API的调试，可以清晰的看到每一步操作数据的变化过程。
+
+[![img](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220708234129.png)
+
+
+
+## easy_javadoc
+
+easy_javadoc一个可以快速为Java的类、方法、属性加注释的插件，还支持自定义注释样式，IDEA自身的Live Templates也支持，不过操作稍显繁琐，使用时效率不太高。
+
+在为类、方法、属性加注释时，不仅会生成注释，还是会将对应变量、类、方法翻译成中文名，不过翻译的怎么样还要取决于你的命名水平。
+
+![img](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220708234858.gif)
+
+快捷键：crtl + \
+
+是不是觉得一点点加注释效率太低了，你也可以尝试批量添加注释。
+
+![img](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220708234919.gif)
+
+快捷键：crtl + shift + \
+
+如果现有的注释样式不适合你，可以自定义你的注释模板。
+
+![img](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220708234940.png)
+
+
+
+## MyBatisX
+
+MyBatisX 插件，对 MyBatis 框架的**增强** 插件，提升使用 MyBatis 的效率和体验。
+
+效果如下图所示：
+
+**XML 跳转:**
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220708235928.gif)
+
+**生成代码:**
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220708235953.gif)
+
+**生成 `insert` 操作:**
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220709000020.gif)
+
+**生成 `update` 操作:**
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220709000044.gif)
+
+**生成 `delete` 操作**
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220709000108.gif)
+
+**生成 `select` 操作:**
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220709000134.gif)
+
+> 友情提示：MyBatisCodeHelperPro 插件，最好的 MyBatis 代码提示，完整支持 MyBatis 动态 SQL 代码提示，代码检测，写 SQL 几乎所有地方都有代码提示。
+>
+> 付费之后会更加好用，胖友也可以尝试下。
+
+
+
+## MybatisLogFormat
+
+MybatisLogFormat 插件，格式化 MyBatis 输出的 SQL 日志。
+
+操作步骤为，选中控制台输出的 MyBatis SQL 日志，右键选中「MybatisLogFormat」选项，之后选择「copy」即可。过程如下图所示：
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220709000424.png)
+
+
+
+## MOMO Code Sec Inspector
+
+MOMO Code Sec Inspector 插件，Java 静态代码**安全审计** 插件。
+
+- 重于在编码过程中发现项目潜在的安全风险，并提供一键修复能力。
+- 用 IDEA 原生 Inspection 机制检查活跃文件，检查速度快，占用资源少。
+
+效果如下图所示：
+
+**Mybatis XML Mapper SQL 注入漏洞发现与一键修复**
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220709000935.gif)
+
+**XXE 漏洞发现与一键修复**
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220709001007.gif)
+
+## UML
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220709001126.png)
+
+UML 插件，IDEA **自带** 插件，可以生成**类图** ，源码阅读神器！
+
+效果如下图所示：
+
+![图片](https://homan-blog.oss-cn-beijing.aliyuncs.com/programming-summary/idea-plugin/20220709001143.gif)
+
+> 友情提示：在类图中，选中父类后，可以通过快捷键获取到所有子类。
+>
+> Windows 使用 `ctrl` + `alt` + `b` 快捷键，MacOS 使用 `option` + `command` + `b` 快捷键。
 
 
 
